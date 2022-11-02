@@ -1,0 +1,20 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "example",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinP3/joker.git"
+  },
+  "author": "MartinP3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinP3/joker/issues"
+  },
+  "homepage": "https://github.com/MartinP3/joker#readme"
+}
