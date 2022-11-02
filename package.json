@@ -1,0 +1,27 @@
+{
+  "name": "martinp3-example-joker",
+  "version": "0.1.0",
+  "description": "example",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinP3/joker.git"
+  },
+  "author": "MartinP3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinP3/joker/issues"
+  },
+  "homepage": "https://github.com/MartinP3/joker#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}
